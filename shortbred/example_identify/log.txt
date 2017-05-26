@@ -1,0 +1,18 @@
+ShortBRED log 
+Thu May 25 00:00:00 2017
+ MARKER PARAMETERS 
+ClustID:0.85
+MarkerLength:8
+QM Thresh:1
+Mode 1: Building everything...
+Initial Families:	10
+Families with True Markers:	9
+QM Families, before clustering:	1
+QM Families, after clustering:	1
+Total Markers:	37
+True Markers:	 36
+QM-Junctions:	 1
+QM-Minimals:	 0
+
+Families with Markers:	 10
+Families without Markers:	 0

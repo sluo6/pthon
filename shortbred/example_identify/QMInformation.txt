@@ -1,0 +1,14 @@
+***********************************************************************
+>gene_10886|GeneMark_hmm|34_aa|+|22053|22154_JM34_#
+VSVRxxIRVLTxxxxxxxxxxxxxxxxPAxRxxG
+
+Overlap among GOI Seqs:
+VSVRxxIRVLTxxxxxxxxxxxxxxxxPAxRxxG
+Number of Overlapping Regions: 0
+Sum of Overlapping AA: 0
+Original Sequence's Weight: 1.00
+
+[]
+gene_10886|GeneMark_hmm|34_aa|+|22053|22154[gene_10886|GeneMark_hmm|34_aa|+|22053|22154_w=1.000]
+Final weight: 1.00
+

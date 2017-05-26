@@ -1,0 +1,10 @@
+
+
+Building a new DB, current time: 05/25/2017 22:59:19
+New DB name:   example_identify/refdb/refdb
+New DB title:  example/ref_prots.faa
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 75 sequences in 0.00348401 seconds.

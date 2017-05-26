@@ -1,0 +1,7 @@
+./shortbred_identify.py --goi  example/input_prots.faa --ref example/ref_prots.faa --markers mytestmarkers.faa --tmp example_identify --usearch /usr/local/bin/usearch --muscle /usr/bin/muscle --cdhit /usr/bin/cdhit --blastp /usr/bin/blastp --makeblastdb /usr/bin/makeblastdb
+
+
+ chmod a+x usearch
+
+
+./shortbred_quantify.py --markers mytestmarkers.faa --wgs example/wgs.fna --results exampleresults2.txt --tmp example_quantify
